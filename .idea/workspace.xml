@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caca895b-e710-43d0-a53a-169e4e3534fb" name="Changes" comment="Initial Code">
-      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/bin/thrust" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/config.ru" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/config/boot.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/config/environments/production.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/test/fixtures/files/.keep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend" beforeDir="false" afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1778753190267</updated>
-      <workItem from="1778753191971" duration="2199000" />
+      <workItem from="1778753191971" duration="3064000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Code">
       <option name="closed" value="true" />
@@ -105,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778753837896</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial Code">
+      <option name="closed" value="true" />
+      <created>1778755711857</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1778755711857</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

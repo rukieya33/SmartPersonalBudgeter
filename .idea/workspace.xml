@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caca895b-e710-43d0-a53a-169e4e3534fb" name="Changes" comment="Initial Code">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/bin/thrust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/config.ru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/config/boot.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/config/environments/production.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/test/fixtures/files/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend/smart_personal_budgeter_backend" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/smart_personal_budgeter_backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Backend/smart_personal_budgeter" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -48,7 +57,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "C:/Users/bread/Documents/SmartPersonalBudgeter",
     "node.js.detected.package.eslint": "true",
@@ -56,6 +65,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -74,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1778753190267</updated>
-      <workItem from="1778753191971" duration="1490000" />
+      <workItem from="1778753191971" duration="1861000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Code">
       <option name="closed" value="true" />

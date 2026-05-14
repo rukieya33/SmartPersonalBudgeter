@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="caca895b-e710-43d0-a53a-169e4e3534fb" name="Changes" comment="Initial Code">
-      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/bin/thrust" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/config.ru" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/config/boot.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/config/environments/production.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/test/fixtures/files/.keep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/smart_personal_budgeter_backend" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/smart_personal_budgeter_backend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/smart_personal_budgeter_backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/bin/thrust" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/config.ru" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/config/boot.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/config/environments/production.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend/test/fixtures/files/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend" beforeDir="false" afterPath="$PROJECT_DIR$/backend/smart_personal_budgeter_backend" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +68,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bread\Documents\SmartPersonalBudgeter" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1778753190267</updated>
-      <workItem from="1778753191971" duration="1861000" />
+      <workItem from="1778753191971" duration="2199000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Code">
       <option name="closed" value="true" />
